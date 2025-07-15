@@ -1,0 +1,13 @@
+# Java + Maven + VS Code
+
+# Maven
+target/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
